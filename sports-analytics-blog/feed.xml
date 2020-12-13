@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://sports-analytics-blog.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sports-analytics-blog.com/" rel="alternate" type="text/html" /><updated>2019-06-01T20:49:28+02:00</updated><id>https://sports-analytics-blog.com/feed.xml</id><title type="html">Sports analytics blog</title><subtitle>Lorem ipsum</subtitle><entry><title type="html">title</title><link href="https://sports-analytics-blog.com/test/blogpost/" rel="alternate" type="text/html" title="title" /><published>2019-05-25T00:00:00+02:00</published><updated>2019-05-25T00:00:00+02:00</updated><id>https://sports-analytics-blog.com/test/blog-test</id><content type="html" xml:base="https://sports-analytics-blog.com/test/blogpost/">&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1485313260896-6e6edf486858?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1350&amp;amp;q=80&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1485313260896-6e6edf486858?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1350&amp;amp;q=80&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;subtitle&quot;&gt;Subtitle&lt;/h2&gt;
+&lt;h3 id=&quot;another-subtitle&quot;&gt;Another Subtitle&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;
+
+&lt;h3 id=&quot;another-subtitle-1&quot;&gt;Another Subtitle&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1485313260896-6e6edf486858?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1350&amp;amp;q=80&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+ipsum dolor sit amet, consetetur sadipscing elitr&lt;/p&gt;</content><author><name></name></author><category term="tag1,tag2,tag3" /><summary type="html">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr</summary></entry><entry><title type="html">Boxes 2</title><link href="https://sports-analytics-blog.com/test/2boxes/" rel="alternate" type="text/html" title="Boxes 2" /><published>2019-05-25T00:00:00+02:00</published><updated>2019-05-25T00:00:00+02:00</updated><id>https://sports-analytics-blog.com/test/boxes-2</id><content type="html" xml:base="https://sports-analytics-blog.com/test/2boxes/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Boxes 3 Test</title><link href="https://sports-analytics-blog.com/test/3boxes/" rel="alternate" type="text/html" title="Boxes 3 Test" /><published>2019-05-25T00:00:00+02:00</published><updated>2019-05-25T00:00:00+02:00</updated><id>https://sports-analytics-blog.com/test/boxes-3-test</id><content type="html" xml:base="https://sports-analytics-blog.com/test/3boxes/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Boxes 4 Test</title><link href="https://sports-analytics-blog.com/test/4boxes/" rel="alternate" type="text/html" title="Boxes 4 Test" /><published>2019-05-25T00:00:00+02:00</published><updated>2019-05-25T00:00:00+02:00</updated><id>https://sports-analytics-blog.com/test/boxes-4-test</id><content type="html" xml:base="https://sports-analytics-blog.com/test/4boxes/"></content><author><name></name></author><summary type="html"></summary></entry></feed>
